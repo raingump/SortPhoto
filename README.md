@@ -3,7 +3,7 @@ A python scripy to make it way more easier to sort the pictures by date.
 
 
 
-# Required
+# Require
 
 You may need to install [ExifRead](https://pypi.org/project/ExifRead/) if you encounter an error like  `ModuleNotFoundError: No module named 'exifread'`.
 
