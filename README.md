@@ -1,2 +1,2 @@
 # SortPhoto
-A python scripy to make it way more easier to sort the picture by date.
+A python scripy to make it way more easier to sort the pictures by date.
